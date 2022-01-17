@@ -1,0 +1,13 @@
+-Draw empty grid
+-'you are x'
+-prompt user for move
+-add user move to grid position
+-add comp move to grid position
+-update grid
+-check for wins
+    -if win
+        -draw grid, display result
+    -else
+        -redraw updated grid
+        -go back to prompt move
+
